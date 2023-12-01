@@ -15,5 +15,7 @@ The dataset contains a description of incidents that have been reported to the N
 * **DispositionText** : A short report from from the reported crime scene from police, e.g., REPORT
 TO FOLLOW, Necessary Action Taken, GONE ON ARRIVAL
 
-[Results](./course-project.html).
+[Visualization](./course-project.html).
+
+[Analysis](./Regression.html).
 
